@@ -1,0 +1,33 @@
+info|2019-11-08 17:00:03.623221|[P2P][Service] heartBeat,connected count=4
+info|2019-11-08 17:00:13.623951|[P2P][Service] heartBeat,connected count=4
+info|2019-11-08 17:00:23.624116|[P2P][Service] heartBeat,connected count=4
+info|2019-11-08 17:00:33.624237|[P2P][Service] heartBeat,connected count=4
+info|2019-11-08 17:00:43.624669|[P2P][Service] heartBeat,connected count=4
+info|2019-11-08 17:00:53.624827|[P2P][Service] heartBeat,connected count=4
+info|2019-11-08 17:01:03.624989|[P2P][Service] heartBeat,connected count=4
+info|2019-11-08 17:01:13.625184|[P2P][Service] heartBeat,connected count=4
+info|2019-11-08 17:01:23.625344|[P2P][Service] heartBeat,connected count=4
+info|2019-11-08 17:01:28.018487|[LEDGER]stop sealer,groupID=1
+info|2019-11-08 17:01:28.018499|[CONSENSUS][SEALER]Stop sealer module...
+info|2019-11-08 17:01:28.023540|[CONSENSUS][ConsensusEngine][Stop ConsensusEngineBase]
+info|2019-11-08 17:01:28.024361|[CONSENSUS][ConsensusEngine]ConsensusEngineBase stopped
+info|2019-11-08 17:01:28.024372|[LEDGER]sealer stopped. stop sync,groupID=1
+info|2019-11-08 17:01:28.032961|[SYNC][id:ac1d3784...]SyncMaster stopped
+info|2019-11-08 17:01:28.032973|[LEDGER]ledger stopped,groupID=1
+info|2019-11-08 17:01:28.162257|[EVENT][EventLogFilterManager]stop
+info|2019-11-08 17:01:28.162267|[LEDGER]event filter manager stopped,groupID=1
+info|2019-11-08 17:01:28.162274|[INITIALIZER]ledgerInitializer stopped
+info|2019-11-08 17:01:29.162923|[INITIALIZER]ChannelRPCHttpServer deleted.
+info|2019-11-08 17:01:29.163436|[INITIALIZER]JsonrpcHttpServer deleted.
+info|2019-11-08 17:01:29.163446|[INITIALIZER]RPCInitializer stopped
+info|2019-11-08 17:01:29.163994|[NETWORK][Host]Host exit
+info|2019-11-08 17:01:29.164241|[INITIALIZER]P2PInitializer stopped
+info|2019-11-08 17:01:29.164253|[LEDGER]stop sealer,groupID=1
+info|2019-11-08 17:01:29.164259|[LEDGER]sealer stopped. stop sync,groupID=1
+info|2019-11-08 17:01:29.164263|[SYNC][id:ac1d3784...]SyncMaster stopped
+info|2019-11-08 17:01:29.164268|[LEDGER]ledger stopped,groupID=1
+info|2019-11-08 17:01:29.164274|[LEDGER]event filter manager stopped,groupID=1
+info|2019-11-08 17:01:29.164280|[STORAGE]Stopping flushStorage thread
+info|2019-11-08 17:01:29.861317|[STORAGE]flushStorage thread stopped.
+info|2019-11-08 17:01:29.861354|[DBINITIALIZER] storage stopped
+info|2019-11-08 17:01:29.861480|[SYNC][id:ac1d3784...]SyncMaster stopped

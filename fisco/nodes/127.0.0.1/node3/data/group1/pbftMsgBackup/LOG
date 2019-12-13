@@ -1,0 +1,5 @@
+2019/12/13-21:09:58.713024 1fccd80 Recovering log #15
+2019/12/13-21:09:58.714588 1fccd80 Level-0 table #17: started
+2019/12/13-21:09:58.716937 1fccd80 Level-0 table #17: 23056 bytes OK
+2019/12/13-21:09:58.721546 1fccd80 Delete type=0 #15
+2019/12/13-21:09:58.721575 1fccd80 Delete type=3 #14
